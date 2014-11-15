@@ -6,7 +6,7 @@ void main(void) {
 
 	printf("Enter 100 any numbers: \n");
 
-	for (int i = 0; i <= 10; ++i) {
+	for (int i = 0; i <= 100; ++i) {
 		scanf("%d", &num);
 
 		// Summarize only the even numbers
